@@ -1,6 +1,3 @@
-#settings
-config.ini
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# config file
+config.ini
